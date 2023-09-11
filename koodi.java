@@ -9,3 +9,7 @@ käytetään toteutettua nettiyhteyttä
 void tulostetaanHeiMaailma() {
 system.out.println("Hei, maailma!");
 }
+
+ void TulostetaanHeiSuomi() {
+  system.out.println("Hei!, suomi");
+ }
