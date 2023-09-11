@@ -6,6 +6,10 @@ tekoäly1
 tekoäly2
 tekoäly3
 käytetään toteutettua nettiyhteyttä
+void tulostetaanHeiMaailma() {
+system.out.println("Hei, maailma!");
+}
+
  void TulostetaanHeiSuomi() {
   system.out.println("Hei!, suomi");
  }
