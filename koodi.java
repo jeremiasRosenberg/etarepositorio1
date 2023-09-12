@@ -13,3 +13,4 @@ system.out.println("Hei, maailma!");
  void TulostetaanHeiSuomi() {
   system.out.println("Hei!, suomi");
  }
+uusi rivi3
